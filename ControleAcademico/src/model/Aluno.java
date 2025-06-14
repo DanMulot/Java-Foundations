@@ -16,7 +16,7 @@ public class Aluno {
         this.matricula = matricula;
     }
 
-    }
+    
 
     public String getNome() {
         return nome;
@@ -54,5 +54,7 @@ public class Aluno {
         System.out.println("Numero da Matricola" + matricula);
  
     }
+
+
 
 }
