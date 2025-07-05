@@ -10,7 +10,7 @@ import model.Disciplina;
 
 public class DisciplinaRepository {
      private static final String ARQUIVO_TXT ="disciplina.txt";
-        
+             
     //Injeção de Dependência
     public static void salvar(Disciplina disciplina){
         try( PrintWriter out = new PrintWriter(new FileWriter(ARQUIVO_TXT,true))){

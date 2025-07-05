@@ -17,6 +17,9 @@ public class AlunoView {
 
         // Persistência de dados em arquivo - .txt
         AlunoRepository.salvar(aluno);
+
+        // Exportar para CSV
+        AlunoRepository.exportarParaCSV();
        
     }
 }
