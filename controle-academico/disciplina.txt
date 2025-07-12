@@ -1,0 +1,3 @@
+id,nome,cargaHoraria,categoria
+1,informatica,80,ti
+1,java,80,informatica

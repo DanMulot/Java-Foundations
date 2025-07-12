@@ -1,0 +1,4 @@
+nome,endereço,idade,matricula,CPF,atuacao
+Paulo,rua,39,1,2222222,tecnol;ogia
+danilo,rua,47,3,33333333,informatica
+paulo,rua,39,421,22222222,tecnologia
